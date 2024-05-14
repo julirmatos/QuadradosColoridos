@@ -1,0 +1,34 @@
+div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  --cor-branca: white;
+}
+
+.container {
+  border: solid 1px var(--cor-branca);
+  height: 200px;
+  width: 1240px;
+  margin: -2px;
+}
+
+.box-red {
+  background-color: red;
+}
+
+.box-blue {
+  background-color: cyan;
+}
+
+.box-green {
+  background-color: green;
+}
+
+.box-yellow {
+  background-color: yellow;
+}
+
+#borda-preta {
+  border: 3px solid black;
+}
