@@ -1,6 +1,8 @@
 # QuadradosColoridos
 Atividade Descodificadas Trilha 1 - 2024
 
+![alt text](image.png)
+
 
 ### Tecnologias e Ferramentas Utilizadas
 
